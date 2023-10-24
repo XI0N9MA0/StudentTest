@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C#\StudentTeacherTest\bin\Debug\StudentTeacherTest.exe.config
+C:\Users\User\Desktop\C#\StudentTeacherTest\bin\Debug\StudentTeacherTest.exe
+C:\Users\User\Desktop\C#\StudentTeacherTest\bin\Debug\StudentTeacherTest.pdb
+C:\Users\User\Desktop\C#\StudentTeacherTest\obj\Debug\StudentTeacherTest.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\StudentTeacherTest\obj\Debug\StudentTeacherTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\StudentTeacherTest\obj\Debug\StudentTeacherTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\StudentTeacherTest\obj\Debug\StudentTeacherTest.exe
+C:\Users\User\Desktop\C#\StudentTeacherTest\obj\Debug\StudentTeacherTest.pdb
