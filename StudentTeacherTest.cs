@@ -16,6 +16,7 @@ namespace StudentTeacherTest
             student.SetAge(21);
             student.Greet();
             student.ShowAge();
+            student.Study();
             Teacher teacher = new Teacher();
             teacher.SetAge(45);
             teacher.Greet();
